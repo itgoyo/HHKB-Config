@@ -9,7 +9,7 @@
 
 ![](hhkb修改键位映射图.png)
 
-![](https://raw.githubusercontent.com/itgoyo/PicGoRes/master/img/20190815201014.png)
+![](https://raw.githubusercontent.com/itgoyo/PicGoRes/master/img/20190815201728.png)
 
 已经使用了Karabinker改建
 所以键盘背面的按钮全部都是关闭状态
