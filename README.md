@@ -25,7 +25,7 @@
 
 快速切换输入法的方式请看看我写到文档:https://github.com/itgoyo/Mac-Shift
 
-如果想使用我的键位，详细请参考:https://github.com/itgoyo/Poker-for-Mac/issues
+如果想使用我的键位，详细请参考:`karabiner.json`文件 
 
 ![](/mac_shift.gif)
 
